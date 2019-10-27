@@ -1,0 +1,10 @@
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\bin\Debug\Perfect Cut Hair Salon.exe.config
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\bin\Debug\Perfect Cut Hair Salon.exe
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\bin\Debug\Perfect Cut Hair Salon.pdb
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect Cut Hair Salon.csprojAssemblyReference.cache
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect_Cut_Hair_Salon.Form1.resources
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect_Cut_Hair_Salon.Properties.Resources.resources
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect Cut Hair Salon.csproj.GenerateResource.cache
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect Cut Hair Salon.csproj.CoreCompileInputs.cache
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect Cut Hair Salon.exe
+A:\Mohawk\Sem3\.NET\Perfect Cut Hair Salon\Perfect Cut Hair Salon\obj\Debug\Perfect Cut Hair Salon.pdb
